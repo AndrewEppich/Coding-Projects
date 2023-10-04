@@ -1,2 +1,2 @@
 # Coding-Projects
-In this project I calculated the frequency and wavelength of notes based on their octave and note index
+# I wanted to display some of the code I have done to show some of my skills
