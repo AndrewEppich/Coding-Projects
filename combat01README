@@ -1,0 +1,12 @@
+#Andrew Eppich
+#April 7th 2023
+#Project 1
+#Collaborator:
+#NONE
+#README
+#I wanted to make my code feel like it was really a video game. That is why I put a a lot of text at the start explaining
+#charecters and the opponent. I also used time.sleep to give it a real video game feel with pauses. I used a while loop and 
+# a lot of if statements for when the user decided to attack or dodge and whether the npc attacked or dodged.
+# I used the sets and -= to change the health of the user and the npc. I also used the set for the damage modifier
+# for when the user or npc dodged. I used an if statement with break to end the loop at declare defeat when either the user
+# or the npcs health went below zero

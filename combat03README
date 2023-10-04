@@ -1,0 +1,12 @@
+#Andrew Eppich
+#April 7th 2023
+#Project 1
+#Collaborator:
+#NONE
+#README
+#I wanted to make the game smoother that the first one I made. I wanted to use more functions and variables so what was printed
+#was based on the user and not what I pre coded in to print. I also like using the time functions to make it feel 
+#more like a video game by pausing to let the player read. I was able to make the attack damage completly based on what 
+# the dice roll function rolled. One problem I ran into is the attack was doing way more than I wanted it to do even 
+# though I amde the dice roll only go up to 30 somehow it did 35 damage when I test it. I couldn't figure out how to fix
+# it though
